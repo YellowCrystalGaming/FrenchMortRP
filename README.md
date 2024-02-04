@@ -5,7 +5,7 @@ Ce plugin permet d'effectuer des morts roleplay par un staff
 
 ## Installation
 
-1. Téléchargez les fichiers `MonPV.dll`, `MyMenu.dll` et `UIPanelManager.dll` depuis la page des releases de ce dépôt.  
+1. Téléchargez les fichiers `FrenchMortRP.dll`, `MyMenu.dll` et `UIPanelManager.dll` depuis la page des releases de ce dépôt.  
 2. Ajoutez les fichiers dans le dossier `plugins` de votre serveur Nova-Life.
 3. Remplacer les valeurs nuls par des guillemets ("") et mettez les informations demandés 
 
